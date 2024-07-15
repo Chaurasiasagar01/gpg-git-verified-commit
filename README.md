@@ -1,4 +1,4 @@
-xxxbfx## OSX Steps:
+xxxxbfx## OSX Steps:
 
 1. Install gpg if you dont have it. 
 ```
